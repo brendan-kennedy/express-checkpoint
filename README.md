@@ -33,15 +33,11 @@ POST a movie
 DELETE a movie
 [/]As a client consuming application, I want to be able to delete a movie record from the api, so that it is no longer an entry in the list of movies.
 
-URL	Method
-/movies/{movieId}	DELETE
-Name	Description
-movieId	Id of movie to delete
 Stretch Goal:
 
-[]Use cookies to set 2 cookies named firstName and lastName. 
-[]Create a route/endpoint named setCookie that sets the cookies with your first name and last name. 
-[]Create a route/endpoint named readCookie that displays your name on the browser using the cookies that were set.
+[/]Use cookies to set 2 cookies named firstName and lastName. 
+[/]Create a route/endpoint named setCookie that sets the cookies with your first name and last name. 
+[/]Create a route/endpoint named readCookie that displays your name on the browser using the cookies that were set.
 
 
 We encourage you to use a service like Postman to test your code before you submit it. This will allow you to verify that your backend is working the way you expect it to.
